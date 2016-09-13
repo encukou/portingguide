@@ -1,5 +1,9 @@
-The Conservative Python 3 Porting Guide
-=======================================
+Moved
+=====
 
-A guide for people for whom Python 3 is a necessary nuisance, written for
-large, conservative codebases that need to start supporting Python 3.
+This repo is now hosted at `fedora-python/portingguide`_.
+
+Please follow development there.
+
+.. _fedora-python/portingguide: https://github.com/fedora-python/portingguide
+
